@@ -1,0 +1,14 @@
+.cont{
+        background:"no-repeat center";
+        background-image: "./assets/images/contactbg.png";
+        background-size: cover; 
+        height: 400px;
+        margin-top: 5px;
+        padding: 4px;
+}
+.col1{
+    width: 60%;
+}
+.col2{
+    width: 40%;
+}
